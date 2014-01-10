@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidSampleStore</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="cc_number_text">CC Number</string>
+    <string name="cc_month_text">MM</string>
+    <string name="cc_year_text">YY</string>
+    <string name="cc_cvv_text">CVV</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+    
+
+</resources>
