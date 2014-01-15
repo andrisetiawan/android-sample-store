@@ -5,7 +5,7 @@
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="edit_message">Enter a message</string>
-    <string name="button_send">Send</string>
+    <string name="button_send">PAY</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="cc_number_text">CC Number</string>
     <string name="cc_month_text">MM</string>
